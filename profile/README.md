@@ -1,4 +1,4 @@
-![Data Catering](../data_catering_landscape_banner.svg)
+![Data Catering](data_catering_landscape_banner.svg)
 
 ## Hi there 👋
 
