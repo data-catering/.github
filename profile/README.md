@@ -1,3 +1,5 @@
+![Data Catering](../data_catering_landscape_banner.svg)
+
 ## Hi there 👋
 
 - 🙋‍♀️ Data Catering wants to make data testing simple for everyone
